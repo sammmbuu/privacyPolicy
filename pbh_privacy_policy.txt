@@ -1,0 +1,3 @@
+This app doesn't use any of your information.  It will save your personalized hymn settings as a
+file in your android device, but there is no network communication within the application so this
+information doesn't leave your device.
